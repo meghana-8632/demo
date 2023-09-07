@@ -1,2 +1,2 @@
 # demo
-Demo lab
+Demo lab for MLOps
